@@ -1,0 +1,14 @@
+1. create repo di git hub - ikut command yg diberi seperti biasa
+2. create repo di local - git init
+3. create file .gitignore
+4. masukkan file atau folder utk ignore push ke git hub
+5. contoh file, folder, atau wildcard yg dimasukkan ke .gitignore
+contoh:
+config.txt
+data/      --yg ni nama folder kena letak slash (/) selepas nama folder
+*.exe
+
+6.github juga sediakan senarai file utk ignore
+7. Atau jika nak lebih mudah boleh masuk web https://gitignore.io
+kemudian masukkan nama OS, Code Editor , framework yg digunakan..nanti web ini akan generate senarai utk gitignore.
+
