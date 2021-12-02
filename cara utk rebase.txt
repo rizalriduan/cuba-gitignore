@@ -1,0 +1,14 @@
+rebase adalah workflow selain drp merge, lg baik jd oneway shj
+
+ringkasnya drp branch cthnya branch features
+type git rebase master
+
+kemudian checkout ke branch master
+type git rebase features
+
+kemudian type graph..semua dah tersusun elok
+
+akhir sekali samakan pada remote insyaallah masih dlm branch master.
+type git push -u origin master
+
+graph lg dan semua dah elok.
